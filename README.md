@@ -13,7 +13,6 @@ the [GitHub user search app challenge on Frontend Mentor](https://www.frontendme
     - [Built with](#built-with)
     - [Continued development](#continued-development)
 - [Available Scripts](#available-scripts)
-- [Author](#author)
 
 
 ## Overview
@@ -46,8 +45,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ](https://github.com/ayahabeeb98/github-user-search-app)
-- Live Site URL: [ live site URL ](https://github-user-search-app-nine.vercel.app/)
+- Solution URL: [ solution URL ](https://github.com/fernandopr11/github-search-user/)
+- Live Site URL: [ live site URL ](https://github-search-user-five.vercel.app/)
 
 ## My process
 
@@ -102,9 +101,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-
-## Author
-
-- Website - [https://github.com/ayahabeeb98/](https://github.com/ayahabeeb98/)
-- Frontend Mentor - [@ayahabeeb98](https://www.frontendmentor.io/profile/ayahabeeb98)
